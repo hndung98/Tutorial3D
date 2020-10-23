@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "577113438576",
+    "firebase_url": "https://winform-64b72.firebaseio.com",
+    "project_id": "winform-64b72",
+    "storage_bucket": "winform-64b72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577113438576:android:2900f4513adafb322d77b5",
+        "android_client_info": {
+          "package_name": "com.sorimachi.ecapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577113438576-17mgl246d5f9hp398c6c584nourj72n1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDqOgwAn0x4x6NwhXftUKxQA8IYIKVI9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577113438576-17mgl246d5f9hp398c6c584nourj72n1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577113438576:android:b5b431b0709c5fa52d77b5",
+        "android_client_info": {
+          "package_name": "com.sorimachi.remoteconfigexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577113438576-17mgl246d5f9hp398c6c584nourj72n1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDqOgwAn0x4x6NwhXftUKxQA8IYIKVI9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577113438576-17mgl246d5f9hp398c6c584nourj72n1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577113438576:android:128657115971fdcd2d77b5",
+        "android_client_info": {
+          "package_name": "com.sorimachi.testremoteconfig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577113438576-17mgl246d5f9hp398c6c584nourj72n1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDqOgwAn0x4x6NwhXftUKxQA8IYIKVI9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577113438576-17mgl246d5f9hp398c6c584nourj72n1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
